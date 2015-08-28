@@ -1,0 +1,28 @@
+{
+  "name": "cqzhao.hello",
+  "description": "my first try using nw",
+  "version": "0.1.0",
+  "homepage": "",
+  "author": {
+    "name": "cqzhao",
+    "email": "cqzhao"
+  },
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "bugs": {
+    "url": ""
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "/blob/master/LICENSE-MIT"
+    }
+  ],
+  "main": "index.html",
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "keywords": []
+}
